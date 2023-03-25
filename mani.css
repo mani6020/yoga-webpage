@@ -1,0 +1,20 @@
+body{
+    
+    
+    background-image:url('https://wallpapers.com/images/hd/yoga-meditation-in-calm-beach-11mrru9fiyi65es1.jpg');
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align:left;
+    color:rgb(6, 6, 243)
+}
+h3{
+    text-align:left;
+    color:darkred;
+}
